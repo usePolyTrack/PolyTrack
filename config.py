@@ -1,2 +1,3 @@
 # Bot config
-BOT_TOKEN = "8291972004:AAFLNDquIa0_LRT_iz75SCZlaCtSSSk6IdI"
+BOT_TOKEN = "your_bot_token"
+
